@@ -10,6 +10,8 @@ Jupyter notebooks exploring COVID-19 data
 
 ### In Binder
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikhaldi/covid-notebooks/master)
+
 [Open this repo in Binder](https://mybinder.org/v2/gh/nikhaldi/covid-notebooks/master) to run and manipulate these notebooks directly in your browser. (Startup time can be slow occasionally.)
 
 ### Locally
