@@ -3,7 +3,7 @@ Jupyter notebooks exploring COVID-19 data
 
 ## Contents
 
-- [Mobility & COVID-9 growth in the US](Mobility%20vs%20COVID-19%20growth%20plot.ipynb) (interactive)
+- [Mobility & COVID-9 growth in the US](Mobility%20%26%20COVID-9%20growth%20in%20the%20US.ipynb) (interactive)
 - [Changing mobility and COVID-19 in NY state counties](Mobility%20vs%20COVID-19%20growth%20plot.ipynb)
 
 ## Running
